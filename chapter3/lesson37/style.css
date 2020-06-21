@@ -1,0 +1,17 @@
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+button {
+    width: 40px;
+    height: 25px;
+}
+
+#first {
+    background-color: gray;
+    padding: 5px 0px 5px 5px;
+}
